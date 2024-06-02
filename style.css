@@ -1,10 +1,14 @@
-/*
-seletor {
-    propriedade: valor;
+/* Reset.css */
+* {
+    margin: 0px;
+    padding: 0px;
 }
-*/
 
 body {
     background-color: #000000;
-    color: #FFFFFF; 
+    color: #FFFFFF;
+}
+
+.titulo-destaque {
+    color: #22D4FD;
 }

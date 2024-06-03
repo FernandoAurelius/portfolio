@@ -5,8 +5,15 @@
 }
 
 body {
+    height: 100vh;
+    box-sizing: border-box;
     background-color: #000000;
     color: #FFFFFF;
+}
+
+.principal {
+    display: flex;
+    align-items: center;
 }
 
 .titulo-destaque {

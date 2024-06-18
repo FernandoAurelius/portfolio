@@ -313,6 +313,7 @@ body {
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 400;
+    align-self: flex-end;
 }
 
 @media (max-width: 1200px) {
